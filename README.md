@@ -12,7 +12,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="logo.png" alt="Logo">
   <h3 align="center">Django Recipe API</h3>
 
   <p align="center">
@@ -63,13 +62,7 @@ You need [Docker](https://www.docker.com/get-started) and [Docker Compose](https
 
 ### Installation
 
-Git clone this repository:
-
-```sh
-git clone git@github.com:sophiabrandt/django-recipe-api.git
-```
-
-
+Git clone this repository
 
 <!-- USAGE EXAMPLES -->
 ## Usage
